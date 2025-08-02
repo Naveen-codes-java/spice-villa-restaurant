@@ -10,7 +10,7 @@ html{
  
 }
 iframe{
-    width: 600px;
+    width: 400px;
     height: 600px;
     border:2px solid rgb(7, 6, 6);
     display:flex;
@@ -170,3 +170,4 @@ a {
   padding: 0.75rem;
   border-radius: 5px;
 }
+
